@@ -1,7 +1,7 @@
-# (Application Name)
+# Coin Counter
 
-#### (Brief Description of Application)
-
+#### Description
+An app that takes an amount in USD an returns how much change to give back
 #### Authored by Erika Debelis
 
 ## Technologies Used
